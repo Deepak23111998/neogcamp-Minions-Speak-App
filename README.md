@@ -1,5 +1,5 @@
 # neoG Minions Speak App
 
-## Minion speak is a fun app which translates english into minions / banana langauge.
+## Minion speak is a app which converts English into minions.
 
 ## [Play Game Hear]("")
